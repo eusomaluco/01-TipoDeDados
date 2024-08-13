@@ -70,7 +70,7 @@ int main()
 	cout << "Sua idade em dias e: " << dias << endl;
 	cout << "Sua idade em horas e: " << horas << endl;
 	cout << "Sua idade em minutos e: " << minutos << endl;
-
+	cout << "eu amo o bolsonaro #fechadao com #ele\n";
 	cout << "Qualquer tecla para sair...";
 	system("pause"); // somente no Windows
 
